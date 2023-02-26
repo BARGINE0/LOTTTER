@@ -1,0 +1,8 @@
+.right-side {
+  height: calc(100vh - 5rem);
+  width: 18%;
+  border-left: 1px solid rgba(255, 255, 255, 0.308);
+  position: absolute;
+  top: 5rem;
+  right: 0;
+}
